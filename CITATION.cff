@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: Redden
-given-names: David
+given-names: David J.
 orcid: https://orcid.org/0000-0001-5567-3868
-title: "Algal toxin qPCR"
-version: 2.0.4
+title: "Algal toxin qPCR github repository"
+version: 1.0.0
 doi: 
 date-released: 2023-06-02
